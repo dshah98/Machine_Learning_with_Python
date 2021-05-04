@@ -1,2 +1,2 @@
 # Machine_Learning_with_Python
-Full machine learning practical with Python.
+Here is the list to learn machine learning from basic to advanced;
