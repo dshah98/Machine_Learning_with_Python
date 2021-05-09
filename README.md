@@ -10,3 +10,4 @@ Here is the list to learn machine learning from basic to advanced;
 - R Squared and Adjusted R Squared
 - All Regression Together
 - Logistic Regression
+- K Nearnest Neighbour Algorithm (KNN)
