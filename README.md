@@ -11,3 +11,9 @@ Here is the list to learn machine learning from basic to advanced;
 - All Regression Together
 - Logistic Regression
 - K Nearnest Neighbour Algorithm (KNN)
+- Support Vector Machine (SVM)
+- Kernel Support Vector Machine
+- Naive Bayes
+- Decision Tree Classification
+- Random Forest Classification
+- All Classification Together
