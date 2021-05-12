@@ -17,3 +17,9 @@ Here is the list to learn machine learning from basic to advanced;
 - Decision Tree Classification
 - Random Forest Classification
 - All Classification Together
+- K-Mean Clustering
+- Hierarchical Clustering
+- Apriori
+- Eclat Algorithm
+- Upper Confidence Bound (UCB)
+- Thompson Sampling
