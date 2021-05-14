@@ -28,3 +28,7 @@ Here is the list to learn machine learning from basic to advanced;
 - Convolutional Neural Networks (CNN)
 - Principal Component Analysis (PCA)
 - Linear Discriminant Analysis (LDA)
+- Kernel PCA
+- K-Fold Cross Validation
+- Grid Search
+- XGBoost
